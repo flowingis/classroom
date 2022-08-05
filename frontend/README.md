@@ -4,6 +4,7 @@
 
 Below you will find resources for becoming a **frontend developer**
 
+- [HTML](./HTML.md)
 - [Javascript](./javascript.md)
 - [Typescript](./typescript.md)
 
