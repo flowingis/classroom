@@ -13,9 +13,11 @@
 
 ## Validations
 
-### Sites
-
 ### Video
+
+- [Learn HTML Forms](https://www.youtube.com/watch?v=fNcJuPIZ2WE)
+- [JavaScript Form Validation](https://youtu.be/In0nB0ABaUk)
+- [JavaScript Client-side Form Validation](https://youtu.be/rsd4FNGTRBw)
 
 ## Accessibility and SEO
 
