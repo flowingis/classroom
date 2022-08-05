@@ -6,6 +6,7 @@ Below you will find resources for becoming a **frontend developer**
 
 - [Javascript](./javascript.md)
 - [Typescript](./typescript.md)
+- [CSS](./css.md)
 
 ### Bonus track
 
