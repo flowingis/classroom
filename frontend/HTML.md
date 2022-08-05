@@ -23,4 +23,5 @@
 
 ### Sites
 
-### Video
+- [How & Why Accessibility Matters for SEO](https://www.searchenginejournal.com/seo-accessibility/379582)
+- [Accessibility](https://web.dev/accessibility/)
