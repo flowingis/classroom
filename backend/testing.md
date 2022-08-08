@@ -15,3 +15,8 @@
 - [Mocking](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 
 - [Articolo](https://medium.com/@sameernyaupane/php-test-driven-development-part-5-integration-testing-51535ca56bf0)
+
+## BDD - Integration Test
+
+- [Articolo](https://www.guru99.com/end-to-end-testing.html)
+- Vedere un caso pratico insieme (scouting)
