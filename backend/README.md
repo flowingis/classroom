@@ -7,3 +7,7 @@ Below you will find resources for becoming a **backend developer**
 - [Database Relazioni](./database_relazionali.md)
 
 - [REST API](./rest.md)
+
+- [Design Pattern](./design-pattern.md)
+  
+- [Testing](./testing.md)
