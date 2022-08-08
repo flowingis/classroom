@@ -5,7 +5,6 @@
 Below you will find resources for becoming a **frontend developer**
 
 - [Javascript](./javascript.md)
-- [Package manager](./package-manager.md)
 - [Build tools](./build-tools.md)
 - [Typescript](./typescript.md)
 
