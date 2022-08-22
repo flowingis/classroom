@@ -1,3 +1,7 @@
-### Design Pattern: Factory - Singleton - Decorator
+# Design Pattern: Factory - Singleton - Decorator
 
-- [Esempi e tipologie](https://github.com/kamranahmedse/design-patterns-for-humans)
+## Fundamentals
+
+### Sites
+
+- [Example and typlogy](https://github.com/kamranahmedse/design-patterns-for-humans)
