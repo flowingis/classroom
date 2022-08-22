@@ -6,3 +6,4 @@ Below you will find common resources good both for **frontend** and **backend** 
 
 - [HTML](./HTML.md)
 - [Package manager](./package-manager.md)
+- [Testing Fundaments](./testing-fundamentals.md)
