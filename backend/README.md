@@ -11,8 +11,3 @@ Below you will find resources for becoming a **backend developer**
 - [Design Pattern](./design_pattern.md)
   
 - [Testing](./testing.md)
-
-# Bonus Track
-
-## Framework vs Frameworkless (tentative - lasciare come studio alla fine del percorso) 
-## ORMs vs NoORMs (tentative - lasciare come studio alla fine del percorso)

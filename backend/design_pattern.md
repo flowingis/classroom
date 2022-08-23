@@ -4,4 +4,4 @@
 
 ### Sites
 
-- [Example and typlogy](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [Example and typology](https://github.com/kamranahmedse/design-patterns-for-humans)

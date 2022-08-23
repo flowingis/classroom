@@ -4,7 +4,7 @@
 
 ### Video
 
-- [Itroduction](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
+- [Introduction](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
 - [Final](https://www.youtube.com/watch?v=iiADhChRriM&ab_channel=WebDevSimplified)
 
 ### Sites
