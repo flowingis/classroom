@@ -25,7 +25,7 @@
   
 ---
 
-# BDD - Integration Test
+# BDD - Functional Test
 
 ### Sites
 
