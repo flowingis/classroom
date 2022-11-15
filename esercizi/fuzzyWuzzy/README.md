@@ -14,7 +14,7 @@ ___
 
 Scrivere un algoritmo che dato in input un serie di numeri positivi (maggiori di 0):
 
-1.  Ritornano una stringa `Fizz` se il numero è multiplo di `3`;
+1.  Ritornano una stringa `Fuzzy` se il numero è multiplo di `3`;
 2.  Ritornano una stringa `Wuzzy` se il numero è multiplo di `5`;
 3.  Ritornano una stringa `FizzWuzzy` se il numero è multiplo di `7`;
 
