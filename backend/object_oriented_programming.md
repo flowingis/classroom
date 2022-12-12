@@ -11,7 +11,6 @@
 
 ### Sites
 
-- [First five principles ITA](https://www.gianlucatramontana.it/2015/12/22/s-o-l-i-d-the-first-five-principles-of-object-oriented-design/)
 - [First five principles ENG](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 ---
